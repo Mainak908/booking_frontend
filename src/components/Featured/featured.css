@@ -1,0 +1,19 @@
+
+
+.featuredItem {
+    flex: 1;
+    position: relative;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 218px;
+    cursor: pointer;
+}
+
+
+.featuredTitle {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 18px; /* Adjust font size */
+}
